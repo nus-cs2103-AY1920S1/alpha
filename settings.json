@@ -1,0 +1,7 @@
+{
+  "openPhases" : ["phaseBugReporting"],
+  "phaseBugReporting": "alpha",
+  "phaseTeamResponse": "CS2103T-alpha-dev-response",
+  "phaseTesterResponse": "alpha",
+  "phaseModeration": "CS2103T-alpha-tutor-moderation"
+}
